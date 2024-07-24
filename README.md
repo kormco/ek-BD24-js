@@ -1,6 +1,6 @@
 # ek-BD24-js
 Scripts related to JavaScript Beyond LWC session at Buckeye Dreamin 24
-[Slide deck]('/demo-assets/JavaScript beyond LWC - Kormos - Buckeye Dreamin 2024.pdf')
+[Slide deck](/demo-assets/JavaScript beyond LWC - Kormos - Buckeye Dreamin 2024.pdf)
 
 Note: see [demo #2](https://github.com/kormco/bd24-demo2) repo for full stack app
 
