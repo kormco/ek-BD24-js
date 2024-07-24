@@ -29,7 +29,7 @@ Pre-requisites:
   - DEBUG_MODE: optional. If any value in this paramter debug mode will subscribe to events only for debugging
 
 
-Usage: ```node sfclirunner.js <ORG_ALIAS> <DEBUG_MODE>```
+Usage: ```node baseball_simulator.js <ORG_ALIAS> <DEBUG_MODE>```
   
 
 
