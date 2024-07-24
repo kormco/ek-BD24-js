@@ -19,7 +19,7 @@ Note: see [demo #2](https://github.com/kormco/bd24-demo2) repo for full stack ap
   
   OUTPUT: objects in the script are output to CSV file in the ```data/`` subdir
   
-```Demo #2 - Platform Event Subscription```
+```Demo #2 - Baseball simulator event publisher and debugger```
 
 Pre-requisites:
   - [Nodejs](https://nodejs.org/en) installed w/npm
