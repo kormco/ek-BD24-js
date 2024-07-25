@@ -13,11 +13,11 @@ Note: see [demo #2](https://github.com/kormco/bd24-demo2) repo for full stack ap
 
 
   Pre-requisites:
-      - ORG_ALIAS: alias of authenticated org. Can be checked with the command: sf org list 
+      - ORG_ALIAS: alias of authenticated org. Can be checked with the command: ```sf org list ```
 
   Usage: ```node sfclirunner.js <ORG_ALIAS>```
   
-  OUTPUT: objects in the script are output to CSV file in the ```data/`` subdir
+  OUTPUT: objects in the script are output to CSV file in the ```data/``` subdir
   
 ## Demo #2 - Baseball simulator event publisher and debugger
 
