@@ -13,7 +13,7 @@ Note: see [demo #2](https://github.com/kormco/bd24-demo2) repo for full stack ap
 
 
   Pre-requisites:
-      - ORG_ALIAS: alias of authenticated org. Can be checked with the command: ```sf org list ```
+      - ```ORG_ALIAS```: alias of authenticated org. Can be checked with the command: ```sf org list ```
 
   Usage: ```node sfclirunner.js <ORG_ALIAS>```
   
@@ -25,8 +25,8 @@ Pre-requisites:
   - [Nodejs](https://nodejs.org/en) installed w/npm
   - Install npm dependencies
     ```npm install jsforce```
-  - ORG_ALIAS: alias of authenticated org. Can be checked with the command: sf org list
-  - DEBUG_MODE: optional. If any value in this paramter debug mode will subscribe to events only for debugging
+  - ```ORG_ALIAS```: alias of authenticated org. Can be checked with the command: sf org list
+  - ```DEBUG_MODE```: optional. If any value in this paramter debug mode will subscribe to events only for debugging
 
 
 Usage: ```node baseball_simulator.js <ORG_ALIAS> <DEBUG_MODE>```
